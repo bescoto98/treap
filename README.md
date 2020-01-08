@@ -2,9 +2,9 @@
 > escot105@mail.chapman.edu
 
 Files:
-  main.cpp
-  Treap.cpp
-  Treap.h
+  - main.cpp
+  - Treap.cpp
+  - Treap.h
   
 
 Resources:
