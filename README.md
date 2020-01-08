@@ -8,10 +8,9 @@ Files:
   
 
 Resources:
-> R. Seidel, C. Aragon. “Randomized Search Trees.” (1989)
-> https://www.geeksforgeeks.org/treap-set-2-implementation-of-search-and-delete/
+- R. Seidel, C. Aragon. “Randomized Search Trees.” (1989)
+- https://www.geeksforgeeks.org/treap-set-2-implementation-of-search-and-delete/
   
-  - General information about to implement the operations for the data structure.
 
 Final project called for the implementation of a non-trivial algorithm. 
 
