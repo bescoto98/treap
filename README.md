@@ -5,6 +5,8 @@ Files:
   - main.cpp
   - Treap.cpp
   - Treap.h
+  - Treapslideshow.pdf
+  - Treap.ppsx (to preserve animations in original powerpoint)
   
 
 Resources:
